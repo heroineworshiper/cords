@@ -19,6 +19,8 @@
  */
 
 
+cord_template.FCStd: template for cord sizes
+
 cord1.FCStd: latest removable cord lock
 
 cord4.FCStd: welded pacman cord lock
@@ -30,7 +32,5 @@ cord6.FCStd: removable cord lock for water bottle shoelace
 sandal_cord3.FCStd: cord lock for sandals.  Must print mirror images.
     - bed side must face out
 
-cord_template.FCStd: template for cord sizes
-
-
+template.FCMacro: generate sketches for the cord template
 
