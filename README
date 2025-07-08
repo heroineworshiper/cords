@@ -21,19 +21,25 @@
 Print with PETG or TPU, .4 nozzle, .32 layers
 
 cord_template.FCStd: template for cord sizes
+cord_template2.FCStd: template for triangle cord sizes
 template.FCMacro: generate sketches for the cord template
+template2.FCMacro: generate sketches for the triangle cord template
 
 cord1.FCStd: obsolete removable cord lock
 
 cord4.FCStd: obsolete welded pacman cord lock
 
-cord5.FCStd: welded death star cord lock for no chafing
+cord5.FCStd: obsolete welded death star cord lock for no chafing
 
-cord6.FCStd: removable cord lock for water bottle shoelace
+cord6.FCStd: removable cord lock for Nathan water bottle shoelace
 
-cord7.FCStd: latest removable TPU cord lock for draw string
+cord7.FCStd: latest chamfered, removable TPU cord lock for large string
 
-cord8.FCStd: latest removable TPU cord lock for #18 string
+cord8.FCStd: obsolete removable TPU cord lock for #18 string
+
+cord9.FCStd: latest welded death star cord with triangle opening
+
+cord10.FCStd: latest removable cord with triangle opening for #18 string
 
 sandal_cord3.FCStd: cord lock for sandals.  Must print mirror images.
     - bed side must face out
