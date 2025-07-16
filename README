@@ -41,7 +41,10 @@ cord9.FCStd: latest welded death star cord with triangle opening
 
 cord10.FCStd: latest removable cord with triangle opening for #18 string
 
-sandal_cord3.FCStd: cord lock for sandals.  Must print mirror images.
+sandal_cord3.FCStd: Obsolete cord lock for sandals.
+    - bed side must face out
+
+sandal_cord5.FCStd: Latest cord lock for sandals.
     - bed side must face out
 
 
